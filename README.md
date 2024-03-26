@@ -4,7 +4,7 @@ Welcome to the Git Configuration Guide! This document will walk you through the 
 
 ## Installation
 
-If you haven't installed Git yet, you can download and install it from the official Git website: [DOWNLOAD LINK](https://git-scm.com/)
+If you haven't installed Git yet, you can download and install it from the official Git website: [DOWNLOAD LINK](https://git-scm.com/downloads)
 
 ## Configuration
 
